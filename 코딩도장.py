@@ -1,1 +1,1 @@
-print('Hello'); print('1234')ㄹㄴㅇㄹㄴㅇㅁㄹ
+print('Hello'); print('3456')
