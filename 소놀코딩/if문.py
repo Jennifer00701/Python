@@ -17,4 +17,13 @@ else :
     print('{}은(는)홀수입니다.'.format(num))
 
 '''
+# elif [ if문 검사 -> 추가 검사 ]
+num=int(input('나이 입력'))
+
+if age<=7:
+    print('유아입니다.')
+elif age<=19:
+    print('청소년입니다.')
+elif age>19:
+    print('성인입니다.')
 
